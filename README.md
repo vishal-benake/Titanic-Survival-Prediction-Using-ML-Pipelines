@@ -39,15 +39,6 @@ This project predicts the survival of passengers aboard the Titanic using machin
 - **Top Models:** Random Forest, Logistic Regression  
 - All models evaluated on precision, recall, F1-score, and accuracy metrics
 
-## 📁 Repository Structure
-```
-├── data/                   # Dataset (CSV)
-├── notebooks/              # Jupyter Notebooks
-├── titanic_pipeline.py     # Pipeline and training script
-├── README.md               # Project Overview
-├── requirements.txt        # Python dependencies
-```
-
 ## 📎 Dataset
 The dataset is available on [Kaggle - Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic).
 
