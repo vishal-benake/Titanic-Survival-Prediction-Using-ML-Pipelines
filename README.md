@@ -51,15 +51,13 @@ This project predicts the survival of passengers aboard the Titanic using machin
 ## 📎 Dataset
 The dataset is available on [Kaggle - Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic).
 
-## 📜 License
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🤝 Acknowledgements
 - [Kaggle](https://www.kaggle.com/)
 - [Scikit-learn Documentation](https://scikit-learn.org/)
 - [imbalanced-learn Documentation](https://imbalanced-learn.org/)
 
-## License
+## 📜 License
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 This project is licensed under the MIT License.
