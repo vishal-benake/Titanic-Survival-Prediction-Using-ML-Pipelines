@@ -1,4 +1,4 @@
-# Titanic-Survival-Prediction-Using-ML-Pipelines 🚢     ![License](https://img.shields.io/badge/License-MIT-blue.svg)
+# Titanic-Survival-Prediction-Using-ML-Pipelines 🚢 
 
 This project predicts the survival of passengers aboard the Titanic using machine learning models built with Scikit-learn Pipelines. It covers data preprocessing, feature engineering, SMOTE for class imbalance, model building, and hyperparameter tuning using GridSearchCV.
 
@@ -47,11 +47,6 @@ The dataset is available on [Kaggle - Titanic: Machine Learning from Disaster](h
 - [Kaggle](https://www.kaggle.com/)
 - [Scikit-learn Documentation](https://scikit-learn.org/)
 - [imbalanced-learn Documentation](https://imbalanced-learn.org/)
-
-## 📜 License
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
-
-This project is licensed under the MIT License.
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="20" height="20"> Youtube
 <h4>If you like, do follow me on Youtube</h4>
